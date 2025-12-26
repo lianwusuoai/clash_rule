@@ -1238,6 +1238,10 @@
 - DOMAIN-SUFFIX,kotlinconf.com
 - DOMAIN-SUFFIX,kotlinlang.org
 
-#国内出海
+ #国内出海
 - DOMAIN,api.z.ai  #智普
 - DOMAIN,api-st.siliconflow.cn  #硅基流动
+
+  # 公益站 
+- DOMAIN,gy.zenscaleai.com  #【sqbbzjx】Zenscaleai
+- DOMAIN,sdwfger.edu.kg  #【23】Sdwfger
