@@ -43383,20 +43383,20 @@
   - DOMAIN-SUFFIX,zhuanzhuan.com
 
   # 公益站
-  - DOMAIN,elysia.h-e.top  #【ByteBender】Elysia
-  - DOMAIN,runanytime.hxi.me  #【hxy】随时跑路
-  - DOMAIN,x666.me  #【bohe】薄荷
-  - DOMAIN,ai.hybgzs.com  #【欧阳淇淇】黑与白
-  - DOMAIN,next-cdk.hybgzs.com  #【欧阳淇淇】黑与白
-  - DOMAIN,b4u.qzz.io  #【W】B4U
-  - DOMAIN,wzw.pp.ua  #【Wong】WONG
-  - DOMAIN,veloera.wenwen12345.top  #【liaowen】runAnytime
-  - DOMAIN,api.voct.top  #【𝐅𝐨𝐯𝐭】Fovt
-  - DOMAIN,api.lhyb.dpdns.org  #【BoscoLi】SWT
+  - DOMAIN-SUFFIX,elysia.h-e.top  #【ByteBender】Elysia
+  - DOMAIN-SUFFIX,runanytime.hxi.me  #【hxy】随时跑路
+  - DOMAIN-SUFFIX,x666.me  #【bohe】薄荷
+  - DOMAIN-SUFFIX,ai.hybgzs.com  #【欧阳淇淇】黑与白
+  - DOMAIN-SUFFIX,next-cdk.hybgzs.com  #【欧阳淇淇】黑与白
+  - DOMAIN-SUFFIX,b4u.qzz.io  #【W】B4U
+  - DOMAIN-SUFFIX,wzw.pp.ua  #【Wong】WONG
+  - DOMAIN-SUFFIX,veloera.wenwen12345.top  #【liaowen】runAnytime
+  - DOMAIN-SUFFIX,api.voct.top  #【𝐅𝐨𝐯𝐭】Fovt
+  - DOMAIN-SUFFIX,api.lhyb.dpdns.org  #【BoscoLi】SWT
   - IP-CIDR,103.109.20.169/32  #【ABoyCatD】随时跑路
-  - DOMAIN,kfc-api.sxxe.net  #【不过减速带+萧草】KFC 
-  - DOMAIN,vip.undyingapi.com  #Undy 商业中转
-  - DOMAIN,88996.cloud  #【3600狂涌】一叶知秋 商业中转
+  - DOMAIN-SUFFIX,kfc-api.sxxe.net  #【不过减速带+萧草】KFC 
+  - DOMAIN-SUFFIX,vip.undyingapi.com  #Undy 商业中转
+  - DOMAIN-SUFFIX,88996.cloud  #【3600狂涌】一叶知秋 商业中转
   
   #自定义直连网站
-  - DOMAIN,packyapi.com
+  - DOMAIN-SUFFIX,packyapi.com

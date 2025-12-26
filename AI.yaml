@@ -1239,10 +1239,10 @@
 - DOMAIN-SUFFIX,kotlinlang.org
 
  #国内出海
-- DOMAIN,api.z.ai  #智普
-- DOMAIN,api-st.siliconflow.cn  #硅基流动
+- DOMAIN-SUFFIX,api.z.ai  #智普
+- DOMAIN-SUFFIX,api-st.siliconflow.cn  #硅基流动
 
   # 公益站 
-- DOMAIN,gy.zenscaleai.com  #【sqbbzjx】Zenscaleai
-- DOMAIN,sdwfger.edu.kg  #【23】Sdwfger
-- DOMAIN,elysiver.h-e.top  #【ByteBender】Elysia
+- DOMAIN-SUFFIX,gy.zenscaleai.com  #【sqbbzjx】Zenscaleai
+- DOMAIN-SUFFIX,sdwfger.edu.kg  #【23】Sdwfger
+- DOMAIN-SUFFIX,elysiver.h-e.top  #【ByteBender】Elysia
