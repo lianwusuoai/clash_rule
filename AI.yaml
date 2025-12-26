@@ -48,6 +48,15 @@
 - DOMAIN,www.bing.com
 - DOMAIN-SUFFIX,algolia.net
 - DOMAIN-SUFFIX,api.microsoftapp.net
+
+# Cursor
+- DOMAIN-SUFFIX,cursor.com
+- DOMAIN-SUFFIX,cursor.sh
+- DOMAIN-KEYWORD,cursor
+
+# Trae
+- DOMAIN-SUFFIX,trae.ai
+- DOMAIN-KEYWORD,trae
 - DOMAIN-SUFFIX,auth0.com
 - DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
 - DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -1242,7 +1251,9 @@
 - DOMAIN-SUFFIX,api.z.ai  #智普
 - DOMAIN-SUFFIX,api-st.siliconflow.cn  #硅基流动
 
-  # 公益站 
+ #公益站 
 - DOMAIN-SUFFIX,gy.zenscaleai.com  #【sqbbzjx】Zenscaleai
 - DOMAIN-SUFFIX,sdwfger.edu.kg  #【23】Sdwfger
 - DOMAIN-SUFFIX,elysiver.h-e.top  #【ByteBender】Elysia
+
+ 
