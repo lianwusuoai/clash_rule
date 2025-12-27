@@ -1,8 +1,8 @@
-﻿payload:
+payload:
   # TikTok
-  - DOMAIN,lf16-effectcdn.byteeffecttos-g.com
-  - DOMAIN,lf16-pkgcdn.pitaya-clientai.com
-  - DOMAIN,p16-tiktokcdn-com.akamaized.net
+  - DOMAIN-SUFFIX,lf16-effectcdn.byteeffecttos-g.com
+  - DOMAIN-SUFFIX,lf16-pkgcdn.pitaya-clientai.com
+  - DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net
   - DOMAIN-SUFFIX,bytedapm.com
   - DOMAIN-SUFFIX,bytegecko-i18n.com
   - DOMAIN-SUFFIX,byteoversea.com
@@ -25,7 +25,3 @@
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.us
   - DOMAIN-SUFFIX,ttwebview.com
-  - DOMAIN-KEYWORD,musical.ly
-  - DOMAIN-KEYWORD,tiktok
-  - PROCESS-NAME,com.zhiliaoapp.musically
-

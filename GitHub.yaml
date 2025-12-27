@@ -1,4 +1,4 @@
-﻿payload:
+payload:
   # GitHub
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,dependabot.com
@@ -30,5 +30,3 @@
   - DOMAIN-SUFFIX,rawgithub.com
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,thegithubshop.com
-  - DOMAIN-KEYWORD,github
-
