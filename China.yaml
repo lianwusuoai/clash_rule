@@ -1,4 +1,4 @@
-payload:
+ï»¿payload:
   # 115
   - DOMAIN-SUFFIX,fhnfile.oss-cn-shenzhen.aliyuncs.com
   - DOMAIN-SUFFIX,115.com
@@ -8039,12 +8039,11 @@ payload:
   - DOMAIN-SUFFIX,zhuancorp.com
   - DOMAIN-SUFFIX,zhuanspirit.com
   - DOMAIN-SUFFIX,zhuanzhuan.com
-  # ¹«ÒæÕ¾
+  # å…¬ç›Šç«™ç›´è¿ž
   - DOMAIN-SUFFIX,elysia.h-e.top
   - DOMAIN-SUFFIX,runanytime.hxi.me
   - DOMAIN-SUFFIX,x666.me
   - DOMAIN-SUFFIX,ai.hybgzs.com
-  - DOMAIN-SUFFIX,next-cdk.hybgzs.com
   - DOMAIN-SUFFIX,b4u.qzz.io
   - DOMAIN-SUFFIX,wzw.pp.ua
   - DOMAIN-SUFFIX,veloera.wenwen12345.top
@@ -8053,5 +8052,5 @@ payload:
   - DOMAIN-SUFFIX,kfc-api.sxxe.net
   - DOMAIN-SUFFIX,vip.undyingapi.com
   - DOMAIN-SUFFIX,88996.cloud
-  #×Ô¶¨ÒåÖ±Á¬ÍøÕ¾
+  #ï¿½Ô¶ï¿½ï¿½ï¿½Ö±ï¿½ï¿½ï¿½ï¿½Õ¾
   - DOMAIN-SUFFIX,packyapi.com
