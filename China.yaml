@@ -8041,15 +8041,18 @@
   - DOMAIN-SUFFIX,zhuanzhuan.com
   # 公益站直连
   - DOMAIN-SUFFIX,elysia.h-e.top
-  - DOMAIN-SUFFIX,runanytime.hxi.me
-  - DOMAIN-SUFFIX,ai.hybgzs.com
-  - DOMAIN-SUFFIX,b4u.qzz.io
-  - DOMAIN-SUFFIX,wzw.pp.ua
-  - DOMAIN-SUFFIX,veloera.wenwen12345.top
+
+
   - DOMAIN-SUFFIX,api.voct.top
-  - DOMAIN-SUFFIX,api.lhyb.dpdns.org
-  - DOMAIN-SUFFIX,kfc-api.sxxe.net
+
+
   - DOMAIN-SUFFIX,vip.undyingapi.com
-  - DOMAIN-SUFFIX,88996.cloud
+
+  
+  #待测试
+  - DOMAIN-SUFFIX,gy.zenscaleai.com  #【sqbbzjx】Zenscaleai
+
+
+
   #�Զ���ֱ����վ
   - DOMAIN-SUFFIX,packyapi.com
