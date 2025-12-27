@@ -1192,13 +1192,10 @@
 - DOMAIN-SUFFIX,api-st.siliconflow.cn  #硅基流动
 
  #公益站 
-
 - DOMAIN-SUFFIX,sdwfger.edu.kg  #【23】Sdwfger
 - DOMAIN-SUFFIX,elysiver.h-e.top  #【ByteBender】Elysia
 - DOMAIN-KEYWORD,cdk.hybgzs.com  #【ByteBender】Elysia
-
 - DOMAIN-SUFFIX,x666.me  #薄荷  代理更快
- #待测试
 - DOMAIN-KEYWORD,b4u.qzz.io
 - DOMAIN-SUFFIX,wzw.pp.ua
 - DOMAIN-SUFFIX,runanytime.hxi.me
@@ -1207,3 +1204,4 @@
 - DOMAIN-SUFFIX,api.lhyb.dpdns.org
 - DOMAIN-SUFFIX,88996.cloud
 - DOMAIN-SUFFIX,kfc-api.sxxe.net
+- DOMAIN-SUFFIX,gy.zenscaleai.com  #【sqbbzjx】Zenscaleai
