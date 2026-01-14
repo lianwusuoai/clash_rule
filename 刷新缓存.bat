@@ -6,7 +6,7 @@ echo    (包含 jsDelivr CDN 缓存清除)
 echo ========================================
 echo.
 
-set API=http://127.0.0.1:7891
+set API=http://127.0.0.1:7890
 set REPO=lianwusuoai/clash_rule
 set BRANCH=main
 
