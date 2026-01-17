@@ -1,4 +1,9 @@
 payload:
+- PROCESS-NAME,Trae.exe
+- PROCESS-NAME,ai-agent.exe
+- PROCESS-NAME,Code.exe
+- PROCESS-NAME,Cursor.exe
+- DOMAIN-SUFFIX,zxiaoruan.com
 - DOMAIN-KEYWORD,amazon
 - DOMAIN-KEYWORD,ampproject
 - DOMAIN-KEYWORD,appbridge
@@ -26,6 +31,7 @@ payload:
 - DOMAIN-KEYWORD,macruby
 - DOMAIN-KEYWORD,nvidia
 - DOMAIN-KEYWORD,openai
+- DOMAIN-KEYWORD,mistral
 - DOMAIN-KEYWORD,picasaweb
 - DOMAIN-KEYWORD,redirector
 - DOMAIN-KEYWORD,researchkit
