@@ -1,8 +1,4 @@
 payload:
-- PROCESS-NAME,Trae.exe
-- PROCESS-NAME,ai-agent.exe
-- PROCESS-NAME,Code.exe
-- PROCESS-NAME,Cursor.exe
 - DOMAIN-SUFFIX,zxiaoruan.com
 - DOMAIN-KEYWORD,amazon
 - DOMAIN-KEYWORD,ampproject

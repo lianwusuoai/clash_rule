@@ -1,5 +1,4 @@
-﻿payload:
-- PROCESS-NAME,Telegram.exe
+payload:
 - DOMAIN-KEYWORD,telegram
 - DOMAIN-SUFFIX,api.imem.app
 - DOMAIN-SUFFIX,api.swiftgram.app

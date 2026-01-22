@@ -1,27 +1,5 @@
 ﻿payload:
-- PROCESS-NAME,Trae CN.exe
-- PROCESS-NAME,douyin_tray.exe
-- PROCESS-NAME,QQLive.exe
-- PROCESS-NAME,Weixin.exe
-- PROCESS-NAME,哔哩哔哩.exe
-- PROCESS-NAME,lightningvine_app.exe
-- PROCESS-NAME,ShadowBot.exe
-- PROCESS-NAME,total_control.exe
-- PROCESS-NAME,happ.exe
-- PROCESS-NAME,KwMusic.exe
-- PROCESS-NAME,MinerU.exe
-- PROCESS-NAME,Feishu.exe
-- PROCESS-NAME,[箫启灵]批量转链工具.exe
-- PROCESS-NAME,勇芳_计算器64.exe
-- PROCESS-NAME,AweSun.exe
-- PROCESS-NAME,dnplayer.exe
-- PROCESS-NAME,HipsMain.exe
-- PROCESS-NAME,YY.exe
-- PROCESS-NAME,FancyCcV.exe
-- PROCESS-NAME,FileZilla.exe
-- PROCESS-NAME,123pan.exe
-- PROCESS-NAME,baidunetdisk.exe
-- PROCESS-NAME,quark.exe
+- DOMAIN,ai-doggy-api.dangbei.net
 - DOMAIN-KEYWORD,my.dnshe
 - DOMAIN-SUFFIX,local
 - DOMAIN,localhost
