@@ -14,7 +14,6 @@
 - PROCESS-NAME,[箫启灵]批量转链工具.exe
 - PROCESS-NAME,mtga-tauri.exe
 - PROCESS-NAME,勇芳_计算器64.exe
-- PROCESS-NAME,wang-screenshot.exe
 - PROCESS-NAME,AweSun.exe
 - PROCESS-NAME,dnplayer.exe
 - PROCESS-NAME,HipsMain.exe
@@ -6772,5 +6771,6 @@
 - DOMAIN-SUFFIX,zealer.com
 - DOMAIN-SUFFIX,zoho.com
 - DOMAIN-SUFFIX,startab.cn
+- DOMAIN-SUFFIX,xiaowang.com
 - DOMAIN,injections.adguard.org
 - DOMAIN,local.adguard.org
