@@ -1,4 +1,5 @@
 payload:
+- PROCESS-NAME,Potato.exe
 - DOMAIN-SUFFIX,linux.do
 - DOMAIN-KEYWORD,1337x
 - DOMAIN-KEYWORD,x1337x
