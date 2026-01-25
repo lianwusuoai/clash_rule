@@ -6751,3 +6751,5 @@
 - DOMAIN-SUFFIX,xiaowang.com
 - DOMAIN,injections.adguard.org
 - DOMAIN,local.adguard.org
+- DOMAIN-SUFFIX,siliconflow.cn,DIRECT
+- DOMAIN-SUFFIX,moka.ai,DIRECT

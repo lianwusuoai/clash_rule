@@ -569,6 +569,7 @@ payload:
 - DOMAIN-SUFFIX,kotlinconf.com
 - DOMAIN-SUFFIX,kotlinlang.org
 - DOMAIN-SUFFIX,api.z.ai  #智普
+- DOMAIN-SUFFIX,siliconflow.com  #硅基流动
 - DOMAIN-SUFFIX,api-st.siliconflow.cn  #硅基流动
 - DOMAIN-SUFFIX,sdwfger.edu.kg  #【23】Sdwfger
 - DOMAIN-SUFFIX,elysiver.h-e.top  #【ByteBender】Elysia
@@ -613,6 +614,36 @@ payload:
 - DOMAIN-SUFFIX,explorebing.com
 - DOMAIN-SUFFIX,msxiaobing.com
 - DOMAIN-SUFFIX,working-bing-int.com
+# === AI 接口类 ===
+- DOMAIN-SUFFIX,jina.ai
+- DOMAIN-SUFFIX,openrouter.ai
+- DOMAIN-SUFFIX,novita.ai
+- DOMAIN-SUFFIX,groq.com
+- DOMAIN-SUFFIX,targon.com
+- DOMAIN-SUFFIX,gmi-serving.com
+- DOMAIN-SUFFIX,aquadevs.com
+- DOMAIN-SUFFIX,pollinations.ai
+- DOMAIN-SUFFIX,submodel.ai
+- DOMAIN-SUFFIX,perplexity.ai
+- DOMAIN-SUFFIX,cohere.ai
+- DOMAIN-SUFFIX,minimax.chat
+- DOMAIN-SUFFIX,dify.ai
+- DOMAIN-SUFFIX,replicate.com
+# === 中转/代理类 ===
+- DOMAIN-SUFFIX,api2d.net
+- DOMAIN-SUFFIX,openai-sb.com
+- DOMAIN-SUFFIX,openaimax.com
+- DOMAIN-SUFFIX,ohmygpt.com
+- DOMAIN-SUFFIX,caipacity.com
+- DOMAIN-SUFFIX,aiproxy.io
+- DOMAIN-SUFFIX,api2gpt.com
+- DOMAIN-SUFFIX,aigc2d.com
+- DOMAIN-SUFFIX,fastgpt.run
+# === 工具/搜索类 ===
+- DOMAIN-SUFFIX,ollama.com
+- DOMAIN-SUFFIX,tavily.com
+- DOMAIN-SUFFIX,exa.ai
+- DOMAIN-SUFFIX,lianwusuoai.top
 # === Microsoft/Azure 相关规则 ===
 - DOMAIN-SUFFIX,microsoft.com
 - DOMAIN-SUFFIX,microsoft.net
