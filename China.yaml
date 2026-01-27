@@ -4,7 +4,6 @@ payload:
 - DOMAIN,hub1.nat.tf
 - DOMAIN,hub2.nat.tf
 - DOMAIN,docker.1panel.live
-- DOMAIN,dockerproxy.1panel.live
 - DOMAIN,docker.xuanyuan.me
 - DOMAIN,docker.m.ixdev.cn
 - DOMAIN,docker.melikeme.cn
