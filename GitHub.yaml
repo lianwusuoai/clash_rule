@@ -1,5 +1,6 @@
 ﻿payload:
 - DOMAIN-KEYWORD,github
+- DOMAIN-SUFFIX,gitrec.gorse.io
 - DOMAIN-SUFFIX,atom.io
 - DOMAIN-SUFFIX,dependabot.com
 - DOMAIN-SUFFIX,ghcr.io
