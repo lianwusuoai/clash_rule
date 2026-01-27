@@ -1,4 +1,13 @@
-﻿payload:
+payload:
+- DOMAIN,docker.1ms.run
+- DOMAIN,docker.m.daocloud.io
+- DOMAIN,hub1.nat.tf
+- DOMAIN,hub2.nat.tf
+- DOMAIN,docker.1panel.live
+- DOMAIN,dockerproxy.1panel.live
+- DOMAIN,docker.xuanyuan.me
+- DOMAIN,docker.m.ixdev.cn
+- DOMAIN,docker.melikeme.cn
 - DOMAIN,ai-doggy-api.dangbei.net
 - DOMAIN-KEYWORD,my.dnshe
 - DOMAIN-SUFFIX,local
@@ -6753,3 +6762,4 @@
 - DOMAIN,local.adguard.org
 - DOMAIN-SUFFIX,siliconflow.cn,DIRECT
 - DOMAIN-SUFFIX,moka.ai,DIRECT
+- DOMAIN-SUFFIX,ndcpp.com,DIRECT
