@@ -1,4 +1,20 @@
 payload:
+- DOMAIN,ai-doggy-api.dangbei.net
+- DOMAIN,cdn.hockeyapp.net
+- DOMAIN,cn.bing.com
+- DOMAIN,docker.1ms.run
+- DOMAIN,docker.1panel.live
+- DOMAIN,docker.m.daocloud.io
+- DOMAIN,docker.m.ixdev.cn
+- DOMAIN,docker.melikeme.cn
+- DOMAIN,docker.xuanyuan.me
+- DOMAIN,epicgames-download1.akamaized.net
+- DOMAIN,fastly-download.epicgames.com
+- DOMAIN,hub1.nat.tf
+- DOMAIN,hub2.nat.tf
+- DOMAIN,injections.adguard.org
+- DOMAIN,local.adguard.org
+- DOMAIN,steamcdn-a.akamaihd.net
 - DOMAIN-KEYWORD,10010
 - DOMAIN-KEYWORD,116cd
 - DOMAIN-KEYWORD,17173
@@ -1756,6 +1772,7 @@ payload:
 - DOMAIN-SUFFIX,cloudzhuhai.com
 - DOMAIN-SUFFIX,cltt.org
 - DOMAIN-SUFFIX,cm.fancyapi.com
+- DOMAIN-SUFFIX,cm.steampowered.com
 - DOMAIN-SUFFIX,cmb-leasing.com
 - DOMAIN-SUFFIX,cmbi.com.hk
 - DOMAIN-SUFFIX,cmbimg.cn
@@ -1899,6 +1916,7 @@ payload:
 - DOMAIN-SUFFIX,csgo.com.cn
 - DOMAIN-SUFFIX,csgo.wmsj.cn
 - DOMAIN-SUFFIX,csjplatform.com
+- DOMAIN-SUFFIX,cstcloud.cn
 - DOMAIN-SUFFIX,csto.com
 - DOMAIN-SUFFIX,cswqvzh.com
 - DOMAIN-SUFFIX,ctexcel.ca
@@ -5449,6 +5467,7 @@ payload:
 - DOMAIN-SUFFIX,stat.zol.com.cn
 - DOMAIN-SUFFIX,static163.net
 - DOMAIN-SUFFIX,staticfile.org
+- DOMAIN-SUFFIX,steamserver.net
 - DOMAIN-SUFFIX,stfile.com
 - DOMAIN-SUFFIX,store-cdn.huami.com
 - DOMAIN-SUFFIX,store.ovp.wsrtv.com.cn
@@ -6869,17 +6888,4 @@ payload:
 - IP-CIDR,220.181.174.226/32,no-resolve
 - IP-CIDR,220.181.174.34/32,no-resolve
 - IP-CIDR,224.0.0.0/4
-- DOMAIN,ai-doggy-api.dangbei.net
-- DOMAIN,cdn.hockeyapp.net
-- DOMAIN,cn.bing.com
-- DOMAIN,docker.1ms.run
-- DOMAIN,docker.1panel.live
-- DOMAIN,docker.m.daocloud.io
-- DOMAIN,docker.m.ixdev.cn
-- DOMAIN,docker.melikeme.cn
-- DOMAIN,docker.xuanyuan.me
-- DOMAIN,hub1.nat.tf
-- DOMAIN,hub2.nat.tf
-- DOMAIN,injections.adguard.org
-- DOMAIN,local.adguard.org
 - IP-CIDR6,fe80::/10
