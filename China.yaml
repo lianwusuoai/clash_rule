@@ -6889,7 +6889,6 @@ payload:
 - IP-CIDR,220.181.174.34/32,no-resolve
 - IP-CIDR,224.0.0.0/4
 - IP-CIDR6,fe80::/10
-#视频
 - DOMAIN,cn.pornhub.com
 - DOMAIN,818ylw.com
 - DOMAIN,glsnote.org
