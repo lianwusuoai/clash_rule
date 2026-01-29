@@ -1,5 +1,7 @@
 payload:
 - DOMAIN-KEYWORD,github
+- DOMAIN-SUFFIX,jsdelivr.com
+- DOMAIN-SUFFIX,jsdelivr.net
 - DOMAIN-KEYWORD,telegram
 - DOMAIN-KEYWORD,youtube
 - DOMAIN-SUFFIX,api.imem.app

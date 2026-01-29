@@ -13,8 +13,7 @@ set "REPO=lianwusuoai/clash_rule"
 set "BRANCH=main"
 
 echo [1/3] 清除 CDN 缓存 (jsDelivr)...
-:: 确保 powershell 命令完整
-powershell -NoProfile -Command "$files = Get-ChildItem -Path . -Filter *.yaml | Select-Object -ExpandProperty Name; foreach($f in $files){ Write-Host ('  清除: ' + $f); try { Invoke-RestMethod -Uri ('https://purge.jsdelivr.net/gh/%REPO%@%BRANCH%/' + $f) -Method GET -TimeoutSec 5 | Out-Null } catch { Write-Host ('    失败: ' + $f) -ForegroundColor Yellow } }"
+powershell -NoProfile -Command "$files = Get-ChildItem -Path . -Filter *.yaml | Select-Object -ExpandProperty Name; foreach($f in $files){ $url='https://purge.jsdelivr.net/gh/%REPO%@%BRANCH%/' + $f; Write-Host ('  清除: ' + $f); try { $r = Invoke-WebRequest -Uri $url -Method GET -UseBasicParsing -TimeoutSec 10; Write-Host ('    成功: ' + $r.StatusCode) -ForegroundColor Green } catch { Write-Host ('    跳过/失败 (Status: ' + $_.Exception.Message + ')') -ForegroundColor Gray } }"
 
 echo.
 echo [2/3] 刷新 Clash 规则提供者...
