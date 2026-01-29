@@ -1,2 +1,3 @@
-DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,github.com
+payload:
+- DOMAIN-SUFFIX,linux.do
+- DOMAIN-SUFFIX,github.com
