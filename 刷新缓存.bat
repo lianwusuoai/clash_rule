@@ -13,16 +13,18 @@ set "REPO=lianwusuoai/clash_rule"
 set "BRANCH=main"
 
 echo [0/3] 检查本地环境...
-git status -s >nul 2>&1
+where git >nul 2>nul
 if %errorlevel% equ 0 (
-    for /f "tokens=*" %%i in ('git status -s') do (
+    for /f "tokens=*" %%i in ('git status -s 2^>nul') do (
         echo [警告] 本地有未提交的修改，CDN 刷新将不会包含这些内容。
         goto :env_check_done
     )
+) else (
+    echo [提示] 未找到 git 命令，跳过本地状态检查。
 )
 :env_check_done
 
-for /f "usebackq delims=" %%A in (`powershell -NoProfile -Command "$ErrorActionPreference='Stop'; $candidates=@('http://127.0.0.1:9090','http://127.0.0.1:7890','http://127.0.0.1:9097','http://127.0.0.1:9091','http://127.0.0.1:7897'); foreach($c in $candidates){ try{ Invoke-RestMethod -Uri ($c + '/version') -Method GET -TimeoutSec 2 | Out-Null; Write-Output $c; exit 0 }catch{} } exit 1"`) do set "API=%%A"
+for /f "usebackq delims=" %%A in (`powershell -NoProfile -Command "$ErrorActionPreference='Stop'; $cands='http://127.0.0.1:9090','http://127.0.0.1:7890','http://127.0.0.1:9097','http://127.0.0.1:9091','http://127.0.0.1:7897'; foreach($c in $cands){ try{ Invoke-RestMethod -Uri ($c + '/version') -Method GET -TimeoutSec 2 | Out-Null; $c; exit 0 }catch{} } exit 1"`) do set "API=%%A"
 if not defined API (
   echo [错误] 未找到可用的 Clash 外部控制器端口。
   echo        1. 请确认 Clash 已启动并开启了外部控制 (External Controller)。
