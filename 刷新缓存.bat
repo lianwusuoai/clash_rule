@@ -13,7 +13,7 @@ set "REPO=lianwusuoai/clash_rule"
 set "BRANCH=main"
 
 echo [1/3] 清除 CDN 缓存 (jsDelivr)...
-powershell -NoProfile -Command "$files = Get-ChildItem -Path . -Filter *.yaml | Select-Object -ExpandProperty Name; foreach($f in $files){ $url='https://purge.jsdelivr.net/gh/%REPO%@%BRANCH%/' + $f; Write-Host ('  清除: ' + $f); try { $r = Invoke-WebRequest -Uri $url -Method GET -UseBasicParsing -TimeoutSec 10; Write-Host ('    成功: ' + $r.StatusCode) -ForegroundColor Green } catch { Write-Host ('    跳过/失败 (Status: ' + $_.Exception.Message + ')') -ForegroundColor Gray } }"
+powershell -NoProfile -Command "$files = Get-ChildItem -Path . -Filter *.yaml | Select-Object -ExpandProperty Name; foreach($f in $files){ $url='https://purge.jsdelivr.net/gh/%REPO%@%BRANCH%/' + $f; Write-Host ('  清除: ' + $f); try { $r = Invoke-WebRequest -Uri $url -Method GET -UseBasicParsing -TimeoutSec 10; Write-Host ('    成功: ' + $r.StatusCode) -ForegroundColor Green } catch { Write-Host ('    跳过/失败') -ForegroundColor Gray } }"
 
 echo.
 echo [2/3] 刷新 Clash 规则提供者...
@@ -27,7 +27,4 @@ echo.
 echo ========================================
 echo   更新完成！
 echo ========================================
-echo 提示：如果规则数量没变，请检查 GitHub Action 
-echo 是否已完成推送，或手动执行 git push。
-echo.
 pause
