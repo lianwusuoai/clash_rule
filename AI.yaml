@@ -21,7 +21,7 @@ payload:
 - DOMAIN-KEYWORD,golang
 - DOMAIN-KEYWORD,google
 - DOMAIN-KEYWORD,gputechconf
-- DOMAIN-KEYWORD,hybgzs.com  #【ByteBender】Elysia
+- DOMAIN-KEYWORD,hybgzs.com
 - DOMAIN-KEYWORD,intellij
 - DOMAIN-KEYWORD,jetbrains
 - DOMAIN-KEYWORD,keytransparency
@@ -171,7 +171,7 @@ payload:
 - DOMAIN-SUFFIX,download.qatp1.net
 - DOMAIN-SUFFIX,elastic.co
 - DOMAIN-SUFFIX,elastic.com
-- DOMAIN-SUFFIX,elysiver.h-e.top  #【ByteBender】Elysia
+- DOMAIN-SUFFIX,elysiver.h-e.top
 - DOMAIN-SUFFIX,episodic.com
 - DOMAIN-SUFFIX,err.sh
 - DOMAIN-SUFFIX,events.statsigapi.net
@@ -239,7 +239,7 @@ payload:
 - DOMAIN-SUFFIX,gvt7.com
 - DOMAIN-SUFFIX,gvt9.com
 - DOMAIN-SUFFIX,gwtproject.org
-- DOMAIN-SUFFIX,gy.zenscaleai.com  #【sqbbzjx】Zenscaleai
+- DOMAIN-SUFFIX,gy.zenscaleai.com
 - DOMAIN-SUFFIX,hdrplusdata.org
 - DOMAIN-SUFFIX,hey.gle
 - DOMAIN-SUFFIX,hindiweb.com
@@ -361,7 +361,7 @@ payload:
 - DOMAIN-SUFFIX,schemer.com
 - DOMAIN-SUFFIX,screenwisetrends.com
 - DOMAIN-SUFFIX,screenwisetrendspanel.com
-- DOMAIN-SUFFIX,sdwfger.edu.kg  #【23】Sdwfger
+- DOMAIN-SUFFIX,sdwfger.edu.kg
 - DOMAIN-SUFFIX,segment.io
 - DOMAIN-SUFFIX,sentry.io
 - DOMAIN-SUFFIX,shattered.io
@@ -435,7 +435,8 @@ payload:
 - DOMAIN-SUFFIX,wzw.pp.ua
 - DOMAIN-SUFFIX,x.company
 - DOMAIN-SUFFIX,x.team
-- DOMAIN-SUFFIX,x666.me  #薄荷  代理更快
+- DOMAIN-SUFFIX,x666.me
+- DOMAIN-SUFFIX,elysiver.h-e.top
 - DOMAIN-SUFFIX,xn--9kr7l.com
 - DOMAIN-SUFFIX,xn--9trs65b.com
 - DOMAIN-SUFFIX,xn--flw351e.com
